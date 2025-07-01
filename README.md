@@ -12,4 +12,16 @@ Fundamentos da extensão universitária: conceitos, legislação, diretrizes, in
 
 # Relatório
 
+## Introdução
+Este relatório tem por objetivo apresentar as atividades e artefatos desenvolvidos ao longo do primeiro semestre de 2025 pelos seguintes alunos:
+1. Daniel Nascimento
+2. Francisco Júnior
+3. Guilherme Pimentel
+4. Jõao Vitor Bernardi
+5. Miguel Santos
+   
+Os alunos realizaram atividades extensionistas relacionadas à BNCC computação -um complemento a Base Nacional Comum Curricular que abrange desde o ensino fundamental até o ensino médio, que conta com conteúdos relacionados a computação, suas aplicações no mundo real, e cultura digital-.
+
+
+
 
