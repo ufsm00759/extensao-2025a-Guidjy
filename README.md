@@ -20,7 +20,12 @@ Este relatório tem por objetivo apresentar as atividades e artefatos desenvolvi
 4. Jõao Vitor Bernardi
 5. Miguel Santos
    
-Os alunos realizaram atividades extensionistas relacionadas à BNCC computação -um complemento a Base Nacional Comum Curricular que abrange desde o ensino fundamental até o ensino médio, que conta com conteúdos relacionados a computação, suas aplicações no mundo real, e cultura digital-.
+Os alunos realizaram atividades extensionistas relacionadas à BNCC computação -um complemento a Base Nacional Comum Curricular que abrange desde o ensino fundamental até o ensino médio, que conta com conteúdos relacionados a computação, suas aplicações no mundo real, e cultura digital-. Foram desenvolvidas atividades desplugadas (sem computadores) para o ensino dos tópicos da BNCC, também como materiais de apoio para professores e alunos poderem praticá-las em sala de aula.
+
+## Linha do tempo
+   A proposta inicial da atividade extensionista da BNCC veio em março de 2025, por meio da professora Andrea Charão, a qual introduziu os alunos ao documento e os desafios que a rede municipal enfrenta ao trabalhar com ele. A partir desse encontro, foi formado um grupo de alunos interessados em aprofundar essa temática. No mês seguinte, o grupo realizou uma reunião com professores do NTEM (Núcleo de Tecnologia Municipal Educacional) -órgão responsável por coordenar a implementação e a utilização das tecnologias educacionais na Rede Municipal de Ensino-, para descobrir suas necessidades quanto ao ensino da BNCC computação.  
+   alou teste asddddddddddddddddddd
+
 
 
 
