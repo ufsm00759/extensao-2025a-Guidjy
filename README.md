@@ -36,7 +36,9 @@ Atividades Desplugadas para Anos Finais - BNCC Computação: https://docs.google
 - A comunicação ativa e constante com todas as partes envolvidas é imprescindível para a extensão.
 
 ## Experiência individual - Guilherme Pimentel
-> teste
-> alou
+>Primeiramente, acredito que a oportunidade dex realizar a cadeira “Práticas Extensionistas na Educação em Computação” foi uma das melhores que tive desde que comecei o curso. A professora Andrea Charão sempre >apoiou nosso grupo muito bem e nos forneceu conexões valiosas, e o trabalho com meu grupo foi prazeroso.  
+
+>Sobre minha experiência, diria que toda etapa do processo agregou a minha formação como aluno, desde o jardim botânico até o final do semestre. Acredito que aprendi muito com o desenvolvimento da apostila para >os professores e também com os encontros que tivemos com eles.
+>Em resumo, sinto que cresci tanto academicamente quanto pessoalmente, e saio dessa experiência mais preparado para atuar de forma colaborativa em qualquer demanda extensionista com que possa me deparar. Espero >continuar participando de ações como essa ao longo da minha trajetória acadêmica e profissional.
 
 
