@@ -35,5 +35,8 @@ Atividades Desplugadas para Anos Finais - BNCC Computação: https://docs.google
 - Alunos e professores que têm pouco contato com computação podem ter uma compreensão muito melhor de seus conceitos se forem ensinados de forma interdisciplinar.
 - A comunicação ativa e constante com todas as partes envolvidas é imprescindível para a extensão.
 
+## Experiência individual - Guilherme Pimentel
+> teste
+> alou
 
 
