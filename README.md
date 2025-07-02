@@ -35,7 +35,7 @@ Atividades Desplugadas para Anos Finais - BNCC Computação: https://docs.google
 - Alunos e professores que têm pouco contato com computação podem ter uma compreensão muito melhor de seus conceitos se forem ensinados de forma interdisciplinar.
 - A comunicação ativa e constante com todas as partes envolvidas é imprescindível para a extensão.
 
-## Experiência individual - Guilherme Pimentel
+## Experiência individual e conclusão - Guilherme Pimentel
 >Primeiramente, acredito que a oportunidade dex realizar a cadeira “Práticas Extensionistas na Educação em Computação” foi uma das melhores que tive desde que comecei o curso. A professora Andrea Charão sempre >apoiou nosso grupo muito bem e nos forneceu conexões valiosas, e o trabalho com meu grupo foi prazeroso.  
 >
 >Sobre minha experiência, diria que toda etapa do processo agregou a minha formação como aluno, desde o jardim botânico até o final do semestre. Acredito que aprendi muito com o desenvolvimento da apostila para >os professores e também com os encontros que tivemos com eles.
