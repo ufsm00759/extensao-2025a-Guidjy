@@ -31,9 +31,9 @@ Com base nos requisitos levantados com os professores e na pesquisa realizada pe
 Atividades Desplugadas para Anos Finais - BNCC Computação: https://docs.google.com/document/d/1_fQsTQMahOKDcmgoO30YlX4LDUwso_Lm7m35rdGwVCY/edit?usp=sharing
 
 ## Lições e conceitos aprendidos
-O uso de linguagem acessível e de abstrações para clareza são fundamentais para o ensino de conceitos complexos como o da BNCC computação.
-Alunos e professores que têm pouco contato com computação podem ter uma compreensão muito melhor de seus conceitos se forem ensinados de forma interdisciplinar.
-A comunicação ativa e constante com todas as partes envolvidas é imprescindível para a extensão.
+- O uso de linguagem acessível e de abstrações para clareza são fundamentais para o ensino de conceitos complexos como o da BNCC computação.
+- Alunos e professores que têm pouco contato com computação podem ter uma compreensão muito melhor de seus conceitos se forem ensinados de forma interdisciplinar.
+- A comunicação ativa e constante com todas as partes envolvidas é imprescindível para a extensão.
 
 
 
